@@ -1,11 +1,13 @@
-# PowerShell Scripts for System Admins
+# PowerShell Script for System Admins
 
-This repository contains a collection of PowerShell scripts for system administrators to automate common administrative tasks, enhance security, and streamline system management.
+This repository contains a single PowerShell script for system administrators.
 
-## Scripts
+## Script
 
 - **Change-Password-At-Next-Logon.ps1**: Forces users to change their password at the next logon.
-- **Group-Policy-Update.ps1**: Updates group policy settings for password complexity and minimum length.
-- **Remove-Secedit-Files.ps1**: Removes temporary `secedit.sdb` and `secedit.jfm` files after applying security settings.
 
-## Getting Started
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prabinat/Windows-Scripts.git
