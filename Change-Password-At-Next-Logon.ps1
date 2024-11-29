@@ -19,6 +19,8 @@
     author:     Prabin A T / prabinattupurathu@gmail.com
     Created:    11/29/2024
     Updated:    See GitHub for latest version
+    disclaimer: This script is provided as-is. Use at your own risk. Always test in a controlled environment before deploying in production.
+
 #>
 
 # List all local users
